@@ -5,5 +5,6 @@ services:
     environment:
       API_ID: $API_ID
       API_HASH: $API_HASH
-      BOT_TOKEN: $BOT_TOKEM
-      
+      TG_BOT_TOKEN: $TG_BOT_TOKEM
+      OWNER_ID: $OWNER_ID
+      AUTH_CHANNEL: $AUTH_CHANNEL
